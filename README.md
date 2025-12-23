@@ -2,7 +2,6 @@
 epic games yer alan Jotunnslayer Hordes of Hel oyunu için Türkçe Yama
 
 ### Nasıl Kulanılır
-repoda yer alan language_eng.xml dosyasını
 
 C:\Program Files\Epic Games\JotunnslayerHordesofrI2Zp\Jotunnslayer_Data\StreamingAssets\language
 dizininde yer alan language_eng.xml dosyasının yedeğini al
